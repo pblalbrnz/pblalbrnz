@@ -1,5 +1,5 @@
 ## 👋 Hello There!
-I'm a 21y ux/ui padawan, looking for jobs and freelances, working on some projects and being goofy.
+I'm a 22y ux/ui padawan, looking for jobs and freelances, working on some projects and being goofy.
 
 ### 🌐 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/karasugami) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hF7bQdvwjA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karasukage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pabloalbrnz) 
@@ -17,6 +17,6 @@ I'm a 21y ux/ui padawan, looking for jobs and freelances, working on some projec
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html) [![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/br/products/illustrator.html) [![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)](https://www.adobe.com/br/products/indesign.html) [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=acidpbl&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=acidpbl&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=acidpbl&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=krsgami&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=krsgami&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krsgami&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
